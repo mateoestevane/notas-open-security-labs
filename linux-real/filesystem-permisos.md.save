@@ -1,0 +1,33 @@
+# Filesystem real: /etc, /var/log y /proc sin memorizar
+
+**Ruta:** linux-real
+**Fecha:** 2026-09-09
+**Nivel:** beginner
+
+## Objetivo del lab
+
+Un recorrido práctico por las carpetas que más vas a tocar en Linux: configuración, logs, procesos, discos y rutas. La idea no es memorizar nombres, es saber dónde mirar.
+
+
+## Comandos que usé
+```bash
+pwd
+```
+"pwd" Lo que el comando pwd me da a entender y mostrar basicamente es que me dice en que punto me encuentro, si lo podria decir de una forma, basicamente en donde estoy parado.
+
+```bash
+ls -lah
+```
+"ls -lah"
+
+## Qué aprendí / por qué funciona
+
+
+## Evidencia (output, capturas, archivos generados)
+
+
+## Reto final
+- [ ] Resuelto
+- Notas sobre cómo lo resolví:
+
+## Dudas / cosas para repasar después
